@@ -1,2 +1,10 @@
+#OS file
+.DS_Store
+
+#IDE file
 .idea
 *.iml
+
+#Compile Output
+target
+out
